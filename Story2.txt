@@ -1,11 +1,6 @@
 A gritty, no-nonsense postal worker discovers a forgotten manuscript in the dead-letter office, penned by an anonymous author whose words reveal the hidden desires and regrets of the city's forgotten souls.
 
-<<<<<<< HEAD
 
-Story 2
+Story 2  Moses
 Alex found the forgotten manuscript. Alas it was written in ancient latin. 
 Useless!
-=======
-The story continuation:-
-the author lied and the postal worker ended up wasting 10 years of life...
->>>>>>> 3cee17bd0c0dc37d23ba2dac1143648e8caee4e9

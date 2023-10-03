@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 A gritty, no-nonsense postal worker discovers a forgotten manuscript in the dead-letter office, penned by an anonymous author whose words reveal the hidden desires and Each issue features both established writers and up-and-coming authors who contribute fascinating philosophical insights on controversial topics like marriage equality, assisted suicide, the meaning of death, animal rights and defining your “purpose.”  It’s time to go deep in search of truth!regrets of the city's forgotten souls.
+=======
+A gritty, no-nonsense postal worker discovers a forgotten manuscript in the dead-letter office, penned by an anonymous author whose words reveal the hidden desires and regrets of the city's forgotten souls.
+
+
+Story 2  Moses
+Alex found the forgotten manuscript. Alas it was written in ancient latin. 
+Useless!
+>>>>>>> 15105544d1d983ea411b852f3eb06c6a5206070b

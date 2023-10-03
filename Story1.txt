@@ -1,6 +1,7 @@
 As the sun sets over a desolate highway motel, a juice-soaked writer confronts his inner demons in a fevered battle of words, culminating in a midnight showdown that could either save his soul or seal his fate.
 
 
+<<<<<<< HEAD
 Story 1
 
 Yo, my mind is a house with walls, covered in pain
@@ -60,3 +61,9 @@ Inside (inside), inside (inside)
 It's lonely (it's lonely)
 Oh, yeah, it's lonely
 Inside this mansion
+=======
+
+Story continuation:-
+
+Then the guy died couldn't save himself.
+>>>>>>> 3cee17bd0c0dc37d23ba2dac1143648e8caee4e9

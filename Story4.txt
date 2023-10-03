@@ -1,5 +1,10 @@
 A down-on-his-luck gambler stumbles upon a mysterious game of chance hidden in a corner of Disney World, where winning could change his life forever.
 
+<<<<<<< HEAD
+The story continuation.
+He lost all his life savings in disney world and his wife divorced him and he was sad after.
+=======
 Story
 He gambles with his last cash and loses.
 Even though he didn't win, his life did change forever. He becomes homeless.
+>>>>>>> 6e755cbad0a6c16c1b441e19b5a3167c80227a22

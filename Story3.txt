@@ -1,0 +1,15 @@
+Amidst the cheerful chaos of Disney World, a disenchanted park employee contemplates the meaning of happiness while cleaning up after ecstatic visitors.
+<<<<<<< HEAD
+he conveyed the happines in his work.
+=======
+
+<<<<<<< HEAD
+
+Story: Moses
+
+Stone could not understand why the visitors were so happy. 
+=======
+Story continuation...
+He quit his job and then won the lottery and he drove into the sunset.
+>>>>>>> 3cee17bd0c0dc37d23ba2dac1143648e8caee4e9
+>>>>>>> 15105544d1d983ea411b852f3eb06c6a5206070b
